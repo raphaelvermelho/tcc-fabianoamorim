@@ -29,7 +29,7 @@
 
 (15) 	No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de classes.
 
-(16) 	No capítulo "Projeto de implementação - parte 2", colocar o mesmo nos padrões de formato de TCC.
+(16) 	(OK) No capítulo "Projeto de implementação - parte 2", colocar o mesmo nos padrões de formato de TCC.
 
 (17) 	No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
 
