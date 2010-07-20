@@ -33,7 +33,7 @@
 
 (17) 	No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
 
-
+(x)	Nas referências, adicionar o site do JSF.
 
 
 ____________________________________________________________
