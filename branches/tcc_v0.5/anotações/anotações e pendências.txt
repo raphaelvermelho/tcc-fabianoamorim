@@ -1,3 +1,4 @@
+(5/22)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -33,7 +34,15 @@
 
 (17) 	No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
 
-(x)	Nas referências, adicionar o site do JSF.
+(18)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Java.
+
+(19)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Tomcat.
+
+(20)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Mysql.
+
+(21)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Hibernate.
+
+(22)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o site do JSF.
 
 
 ____________________________________________________________
