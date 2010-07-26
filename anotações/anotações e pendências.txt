@@ -1,4 +1,4 @@
-(5/29)
+(9/33)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -8,7 +8,7 @@
 
 (4) 	No capítulo "introdução geral", adicionar alguma citação sobre a importância da realização de pesquisas.
 
-(5) 	No capítulo "introdução geral", adicionar alguma citação sobre os principais dificuldades para a realização de uma pesquisa.
+(5) 	No capítulo "introdução geral", adicionar alguma citação sobre as principais dificuldades para a realização de uma pesquisa.
 
 (6) 	No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
 
@@ -32,13 +32,13 @@
 
 (16) 	(OK) No capítulo "Projeto de implementação - parte 2", colocar o mesmo nos padrões de formato de TCC.
 
-(17) 	No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
+(17) 	(não precisa) No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
 
-(18)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Java.
+(18)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Java.
 
 (19)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Tomcat.
 
-(20)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Mysql.
+(20)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Mysql.
 
 (21)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Hibernate.
 
@@ -58,7 +58,13 @@
 
 (29)	Criar a conclusão.
 
-(30)	
+(30)	Concluir o texto do capítulo "tipos de sistemas de informação".
+
+(31)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o livro do Navathe.
+
+(32)	No capítulo "Projeto de implementação do sistema - parte 3.doc" adicionar uma citação do livro do Navathe.
+
+(33)	(OK) Na nota de rodapé que mostra o site do Java, falar um pouco sobre a linguagem.
 ____________________________________________________________
 arquivos finalizados:
 
