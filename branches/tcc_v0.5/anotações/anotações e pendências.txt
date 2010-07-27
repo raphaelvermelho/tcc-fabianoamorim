@@ -1,4 +1,4 @@
-(9/33)
+(17/36)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -14,9 +14,9 @@
 
 (7) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção do formulário no website do cliente;
 
-(8) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de enviar Resultados enviados ao e-mail;
+(8) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de enviar Resultados ao e-mail;
 
-(9) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção de ferramentas de pagamento no formulário;
+(9) 	(não precisa) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção de ferramentas de pagamento no formulário;
 
 (10) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Upload de arquivos;
 
@@ -36,13 +36,13 @@
 
 (18)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Java.
 
-(19)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Tomcat.
+(19)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Tomcat.
 
 (20)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Mysql.
 
-(21)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Hibernate.
+(21)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Hibernate.
 
-(22)	No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o site do JSF.
+(22)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o site do JSF.
 
 (23)	Criar a capa do trabalho.
 
@@ -64,7 +64,13 @@
 
 (32)	No capítulo "Projeto de implementação do sistema - parte 3.doc" adicionar uma citação do livro do Navathe.
 
-(33)	(OK) Na nota de rodapé que mostra o site do Java, falar um pouco sobre a linguagem.
+(33)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Java, falar um pouco sobre a linguagem.
+
+(34)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Tomcat, falar um pouco sobre a ele.
+
+(35)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do JSF, falar um pouco sobre a ele.
+
+(36)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Hibernate, falar um pouco sobre a ele.
 ____________________________________________________________
 arquivos finalizados:
 
