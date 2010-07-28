@@ -44,7 +44,7 @@
 
 (22)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o site do JSF.
 
-(23)	Criar a capa do trabalho.
+(23)	(OK) Criar a capa do trabalho.
 
 (24)	Criar página de agradecimentos.
 
