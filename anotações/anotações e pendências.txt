@@ -1,4 +1,4 @@
-(17/36)
+(20/36)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -26,7 +26,7 @@
 
 (13) 	No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de casos de uso.
 
-(14) 	Adicionar nas referências, uma referência para o livro de UML.
+(14) 	(OK) Adicionar nas referências, uma referência para o livro de UML.
 
 (15) 	No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de classes.
 
@@ -62,7 +62,7 @@
 
 (31)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o livro do Navathe.
 
-(32)	No capítulo "Projeto de implementação do sistema - parte 3.doc" adicionar uma citação do livro do Navathe.
+(32)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" adicionar uma citação do livro do Navathe.
 
 (33)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Java, falar um pouco sobre a linguagem.
 
