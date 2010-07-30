@@ -1,4 +1,4 @@
-(25/40)
+(28/40)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -48,11 +48,11 @@
 
 (24) Criar página de agradecimentos.
 
-(25) Criar uma página com uma frase (não sei se é obrigatório).
+(25) 	(não precisa) Criar uma página com uma frase (não sei se é obrigatório).
 
-(26) Criar o resumo do trabalho.
+(26) 	(OK) Criar o resumo do trabalho.
 
-(27) Traduzir o resumo e criar o abstract.
+(27) 	(OK) Traduzir o resumo e criar o abstract.
 
 (28) Criar o sumário.
 
