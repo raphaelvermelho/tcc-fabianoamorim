@@ -1,0 +1,38 @@
+CREATE SURVEY
+	* http://www.createsurvey.com/
+	* permite exportar formulário para embutir no site do cliente.
+	* pode receber informações por e-mail, cada vez que alguém responde o formulário.
+	* permite fazer upload de arquivos.
+
+
+Survey System
+	* http://www.surveysystem.com/
+	* permite criar formulários para serem embutidos em PDAs e smartphones, para posteriormente, serem usados em entrevistas. Feito para windows mobile.
+	* permite questões, cujas respostas são gravações de voz.
+
+SURVEY MONKEY
+	* http://pt.surveymonkey.com/
+
+
+Free online Surveys
+	* http://freeonlinesurveys.com/
+
+
+CREATE FORMS
+	* http://www.createforms.com/
+
+
+FREEDBACK
+	* http://www.freedback.com/
+
+
+PHPFORM
+	* http://www.phpform.org/
+
+
+JotFORM
+	* http://www.jotform.com/
+
+
+MAKE SURVEY
+	* http://www.makesurvey.net/
