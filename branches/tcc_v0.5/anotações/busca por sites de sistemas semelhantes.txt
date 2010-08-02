@@ -12,27 +12,41 @@ Survey System
 
 SURVEY MONKEY
 	* http://pt.surveymonkey.com/
+	* não encontrei alguma coisa fora do comum.
 
 
 Free online Surveys
 	* http://freeonlinesurveys.com/
+	* não encontrei alguma coisa fora do comum.
 
 
 CREATE FORMS
 	* http://www.createforms.com/
+	* nada demais.
 
 
 FREEDBACK
 	* http://www.freedback.com/
-
+	* nada demais.	
 
 PHPFORM
 	* http://www.phpform.org/
+	* permite upload de arquivos.
 
 
 JotFORM
 	* http://www.jotform.com/
+	* publica o formulário num website.
+	* permite integração com sites de pagamento: paypal e Authorize.Net.
+	* 
 
 
 MAKE SURVEY
 	* http://www.makesurvey.net/
+
+
+
+
+
+
+
