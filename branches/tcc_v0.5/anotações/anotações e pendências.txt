@@ -1,4 +1,4 @@
-(33/41)
+(35/43)
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -10,7 +10,7 @@
 
 (5) No capítulo "introdução geral", adicionar alguma citação sobre as principais dificuldades para a realização de uma pesquisa.
 
-(6) No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
+(6) 	(OK) No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
 
 (7) 	(OK) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção do formulário no website do cliente;
 
@@ -46,7 +46,7 @@
 
 (23)	(OK) Criar a capa do trabalho.
 
-(24) Criar página de agradecimentos.
+(24) 	(OK) Criar página de agradecimentos.
 
 (25) 	(não precisa) Criar uma página com uma frase (não sei se é obrigatório).
 
@@ -81,6 +81,10 @@
 (40) Criar a página que é o sumário de figuras.
 
 (41) 	(OK) No capítulo "introdução geral", adicionar a funcionalidade de adicionar questões, cuja resposta é uma gravação de voz.
+
+(42) Organizar todos os capítulos na ordem correta do trabalho: capítulo 1, capítulo 2, etc.
+
+(43) Reunir todos os capítulos em um único arquivo, para ser analisado pelo Olival.
 ____________________________________________________________
 arquivos finalizados:
 
