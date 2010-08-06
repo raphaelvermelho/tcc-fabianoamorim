@@ -1,4 +1,4 @@
-(40/53) = 75,47%
+(44/53) = 83,01%
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -92,15 +92,15 @@
 
 (46) 	(OK) Tipos de sistemas de informação.doc: no Trecho "Sistemas de informações gerenciais", nas duas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
 
-(47) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", concluir o texto do primeiro parágrafo.
+(47) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", concluir o texto do primeiro parágrafo.
 
-(48) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+(48) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
 
-(49) Tipos de sistemas de informação.doc: No trecho "sistemas de suporte executivo" nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+(49) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de suporte executivo" nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
 
 (50) Tipos de sistemas de informação.doc: No trecho "sistemas de suporte executivo", Coletar com o Olival, a informação sobre como citar o texto que ele me passou, nas referências e citar da maneira correta, retirando o "FULANO" do texto.
 
-(51) Tipos de sistemas de informação.doc: Adicionar mais um trecho, com o título "conclusão", para encerrar o capítulo.
+(51) 	(OK) Tipos de sistemas de informação.doc: escrever mais um tópico, com o título "conclusão", para encerrar o capítulo.
 
 (52) 	(OK) referências.doc: adicionar uma referência ao livro do Laudon, de 2005, nona edição.
 
