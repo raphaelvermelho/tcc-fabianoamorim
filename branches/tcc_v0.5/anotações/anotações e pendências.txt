@@ -1,4 +1,4 @@
-(44/53) = 83,01%
+(45/54) = %
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -8,7 +8,7 @@
 
 (4) No capítulo "introdução geral", adicionar alguma citação sobre a importância da realização de pesquisas.
 
-(5) No capítulo "introdução geral", adicionar alguma citação sobre as principais dificuldades para a realização de uma pesquisa.
+(5) 	(não precisa) No capítulo "introdução geral", adicionar alguma citação sobre as principais dificuldades para a realização de uma pesquisa.
 
 (6) 	(OK) No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
 
@@ -105,6 +105,8 @@
 (52) 	(OK) referências.doc: adicionar uma referência ao livro do Laudon, de 2005, nona edição.
 
 (53) Tipos de sistemas de informação.doc: Nas referências ao livro do Laudon, digital, colocar os valores corretos das páginas das figuras e das citações.
+
+(54) Capítulo 1 - Introdução.doc: Inserir um novo tópico chamado "estrutura do trabalho": nesse capítulo deve ser descrita a estrutura dos capítulos do trabalho.
 ____________________________________________________________
 
 arquivos finalizados:
