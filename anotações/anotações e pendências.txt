@@ -1,4 +1,4 @@
-(45/54) = %
+(48/55) = 87,27%
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -82,7 +82,7 @@
 
 (41) 	(OK) No capítulo "introdução geral", adicionar a funcionalidade de adicionar questões, cuja resposta é uma gravação de voz.
 
-(42) Organizar todos os capítulos na ordem correta do trabalho: capítulo 1, capítulo 2, etc.
+(42) 	(OK) Organizar todos os capítulos na ordem correta do trabalho: capítulo 1, capítulo 2, etc.
 
 (43) Reunir todos os capítulos em um único arquivo, para ser analisado pelo Olival.
 
@@ -106,7 +106,9 @@
 
 (53) Tipos de sistemas de informação.doc: Nas referências ao livro do Laudon, digital, colocar os valores corretos das páginas das figuras e das citações.
 
-(54) Capítulo 1 - Introdução.doc: Inserir um novo tópico chamado "estrutura do trabalho": nesse capítulo deve ser descrita a estrutura dos capítulos do trabalho.
+(54) 	(OK) Capítulo 1 - Introdução.doc: Inserir um novo tópico chamado "estrutura do trabalho": nesse capítulo deve ser descrita a estrutura dos capítulos do trabalho.
+
+(55) 	(OK) Organizar as figuras dos capítulos. Modificar de "x.n" para "n.1", "n.2", etc.
 ____________________________________________________________
 
 arquivos finalizados:
