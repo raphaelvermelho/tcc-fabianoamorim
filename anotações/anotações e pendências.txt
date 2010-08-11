@@ -1,4 +1,4 @@
-(48/55) = 87,27%
+(50/57) = 87,71%
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -54,7 +54,7 @@
 
 (27) 	(OK) Traduzir o resumo e criar o abstract.
 
-(28) Criar o sumário.
+(28) 	(OK) Criar o sumário.
 
 (29) Criar a conclusão.
 
@@ -78,7 +78,7 @@
 
 (39)	(OK) criar a folha de aprovação/banca examinadora
 
-(40) Criar a página que é o sumário de figuras.
+(40) 	(OK) Criar a página que é o sumário de figuras.
 
 (41) 	(OK) No capítulo "introdução geral", adicionar a funcionalidade de adicionar questões, cuja resposta é uma gravação de voz.
 
@@ -109,6 +109,10 @@
 (54) 	(OK) Capítulo 1 - Introdução.doc: Inserir um novo tópico chamado "estrutura do trabalho": nesse capítulo deve ser descrita a estrutura dos capítulos do trabalho.
 
 (55) 	(OK) Organizar as figuras dos capítulos. Modificar de "x.n" para "n.1", "n.2", etc.
+
+(56) Ao finalizar o conteúdo, colocar as páginas corretas de cada capítulo no sumário e também as páginas das figuras.
+
+(57) Colocar a numeração nas páginas, a partir do capítulo 1.
 ____________________________________________________________
 
 arquivos finalizados:
