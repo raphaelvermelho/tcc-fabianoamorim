@@ -1,3 +1,4 @@
+(50/57) = 87,71%
 
 (1) 	(OK) Falta criar o apêndice que mostra a lista e questões da avaliação institucional.
 
@@ -7,36 +8,113 @@
 
 (4) 	No capítulo "introdução geral", adicionar alguma citação sobre a importância da realização de pesquisas.
 
-(5) 	No capítulo "introdução geral", adicionar alguma citação sobre os principais dificuldades para a realização de uma pesquisa.
+(5) 	(não precisa) No capítulo "introdução geral", adicionar alguma citação sobre as principais dificuldades para a realização de uma pesquisa.
 
-(6) 	No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
+(6) 	(OK) No capítulo "introdução geral", adicionar a lista de concorrentes encontrados.
 
-(7) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção do formulário no website do cliente;
+(7) 	(OK) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção do formulário no website do cliente;
 
-(8) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de enviar Resultados enviados ao e-mail;
+(8) 	(OK) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de enviar Resultados ao e-mail;
 
-(9) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção de ferramentas de pagamento no formulário;
+(9) 	(OK) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Inserção de ferramentas de pagamento no formulário;
 
-(10) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Upload de arquivos;
+(10) 	(não precisa) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de Upload de arquivos;
 
-(11) 	No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de criar Formulários para celulares;
+(11) 	(OK) No capítulo "introdução geral", Mostrar exemplos de sistemas que possuem a funcionalidade de criar Formulários para dispositivos móveis;
 
 (12) 	(OK) No capítulo "Projeto de imlementação - parte 1", organizar o mesmo, de acordo com os padrões.
 
-(13) 	No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de casos de uso.
+(13) 	(OK) No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de casos de uso.
 
-(14) 	Adicionar nas referências, uma referência para o livro de UML.
+(14) 	(OK) Adicionar nas referências, uma referência para o livro de UML.
 
-(15) 	No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de classes.
+(15) 	(OK) No capítulo "Projeto de implementação - parte 1", adicionar uma citação, falando sobre diagramas de classes.
 
-(16) 	No capítulo "Projeto de implementação - parte 2", colocar o mesmo nos padrões de formato de TCC.
+(16) 	(OK) No capítulo "Projeto de implementação - parte 2", colocar o mesmo nos padrões de formato de TCC.
 
-(17) 	No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
+(17) 	(não precisa) No capítulo "Projeto de implementação - parte 2", adicionar citação sobre custo da mudança em software
 
+(18)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Java.
 
+(19)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Tomcat.
 
+(20)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Mysql.
 
+(21)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Inserir uma referência ao site do Hibernate.
+
+(22)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o site do JSF.
+
+(23)	(OK) Criar a capa do trabalho.
+
+(24) 	(OK) Criar página de agradecimentos.
+
+(25) 	(não precisa) Criar uma página com uma frase (não sei se é obrigatório).
+
+(26) 	(OK) Criar o resumo do trabalho.
+
+(27) 	(OK) Traduzir o resumo e criar o abstract.
+
+(28) 	(OK) Criar o sumário.
+
+(29) Criar a conclusão.
+
+(30) 	(não precisa) Concluir o texto do capítulo "tipos de sistemas de informação".
+
+(31)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" Nas referências, adicionar o livro do Navathe.
+
+(32)	(OK) No capítulo "Projeto de implementação do sistema - parte 3.doc" adicionar uma citação do livro do Navathe.
+
+(33)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Java, falar um pouco sobre a linguagem.
+
+(34)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Tomcat, falar um pouco sobre a ele.
+
+(35)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do JSF, falar um pouco sobre a ele.
+
+(36)	(OK) Projeto de implementação do sistema - parte 3.doc: Na nota de rodapé que mostra o site do Hibernate, falar um pouco sobre a ele.
+
+(37)	(OK) Projeto de implementação do sistema - parte 1.doc: No trecho "Diagrama de casos de uso", adicionar uma nota de rodapé, explicando o que é UML.
+
+(38)	(OK) Criar a folha de rosto
+
+(39)	(OK) criar a folha de aprovação/banca examinadora
+
+(40) 	(OK) Criar a página que é o sumário de figuras.
+
+(41) 	(OK) No capítulo "introdução geral", adicionar a funcionalidade de adicionar questões, cuja resposta é uma gravação de voz.
+
+(42) 	(OK) Organizar todos os capítulos na ordem correta do trabalho: capítulo 1, capítulo 2, etc.
+
+(43) Reunir todos os capítulos em um único arquivo, para ser analisado pelo Olival.
+
+(44) 	(OK) Tipos de sistemas de informação.doc: No trecho "Os principais tipos de sistemas de informação", explicar a figura, cujo texto está em inglês.
+
+(45) 	(OK) Tipos de sistemas de informação.doc: No trecho "Sistemas de processamento de transações", nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+
+(46) 	(OK) Tipos de sistemas de informação.doc: no Trecho "Sistemas de informações gerenciais", nas duas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+
+(47) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", concluir o texto do primeiro parágrafo.
+
+(48) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de apoio à decisão", nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+
+(49) 	(OK) Tipos de sistemas de informação.doc: No trecho "sistemas de suporte executivo" nas citações existentes, adicionar o ano do livro e o número das páginas, dos trechos que são citados.
+
+(50) Tipos de sistemas de informação.doc: No trecho "sistemas de suporte executivo", Coletar com o Olival, a informação sobre como citar o texto que ele me passou, nas referências e citar da maneira correta, retirando o "FULANO" do texto.
+
+(51) 	(OK) Tipos de sistemas de informação.doc: escrever mais um tópico, com o título "conclusão", para encerrar o capítulo.
+
+(52) 	(OK) referências.doc: adicionar uma referência ao livro do Laudon, de 2005, nona edição.
+
+(53) Tipos de sistemas de informação.doc: Nas referências ao livro do Laudon, digital, colocar os valores corretos das páginas das figuras e das citações.
+
+(54) 	(OK) Capítulo 1 - Introdução.doc: Inserir um novo tópico chamado "estrutura do trabalho": nesse capítulo deve ser descrita a estrutura dos capítulos do trabalho.
+
+(55) 	(OK) Organizar as figuras dos capítulos. Modificar de "x.n" para "n.1", "n.2", etc.
+
+(56) Ao finalizar o conteúdo, colocar as páginas corretas de cada capítulo no sumário e também as páginas das figuras.
+
+(57) Colocar a numeração nas páginas, a partir do capítulo 1.
 ____________________________________________________________
+
 arquivos finalizados:
 
 * estudo de caso;
